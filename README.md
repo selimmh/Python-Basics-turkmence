@@ -1,2 +1,3 @@
-# Python-Basics-turkmence
-Bu repositoryda Python-yň esaslary barada bilmeli zatlaryňyzyň hemmesi bolar
+Bu repositoryda Python-yň esaslaryny düşündirmäge synanyşdym.
+Kodlarymyň hiç birinde awtorlyk hukugy ýok, islendik şertlerde 
+ulanyp bilersiňiz.
