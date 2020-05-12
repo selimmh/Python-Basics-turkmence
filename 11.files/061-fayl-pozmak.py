@@ -1,4 +1,4 @@
-# To delete a file, you must import the OS module, and run its os.remove() function
+# Faýly pozmak üçin OS modulyny import etmeli we os.remove() metodyny işletmeli
 
 import os
 os.remove("text.txt")
